@@ -1,0 +1,174 @@
+Ciudad de México	55
+Guadalajara	33
+Monterrey	81
+Aguascalientes	449
+Celaya	461
+Ciudad del Carmen	938
+Ciudad Victoria	834
+Cozumel	987
+Durango	618
+Guanajuato	473
+Irapuato	462
+León	477
+Matamoros	868
+Poza Rica	782
+Puebla	222
+Querétaro	442
+Reynosa	899
+Salamanca	464
+Saltillo	844
+San Luis Potosí	444
+Silao	472
+Tampico	833
+Tepíc	311
+Tizayuca	779
+Toluca	722
+Torreon	871
+Veracruz	229
+Acaponeta	325
+Agua Prieta	633
+Amecameca	597
+Arcelia	732
+Autlán	317
+Bahia de Huatulco	958
+Cabo San Lucas	624
+Cadereyta	828
+Campeche	981
+Cananea	645
+Cancún	998
+Chetumal	983
+Chihuahua	614
+Chilapa	756
+Chilpancingo	747
+Ciudad Acuña	877
+Ciudad Camargo	648
+Ciudad Constitución	613
+Ciudad Delicias	639
+Ciudad Guzmán	341
+Ciudad Hidalgo	786
+Ciudad Juárez	656
+Ciudad Mante	831
+Ciudad Sahagún	791
+Colima	312
+Córdoba	271
+Cuautla	735
+Cuernavaca	777
+Cuidad Valles	481
+Encarnación de Díaz	475
+Ensenada	646
+Estancia de los López	324
+Guadalupe Victoria	676
+Guaymas	622
+Hermosillo	662
+Huetamo	435
+Huimanguillo	917
+Huitzuco	727
+Iguala	733
+Ixtapan	721
+Jalapa	228
+Jalpa	463
+Jerez de García Salinas	494
+Jojutla	734
+Juchitán	971
+La Barca	393
+La Paz	612
+La Piedad	352
+Lagos De Moreno	474
+Lerdo De Tejada	284
+Lerma	728
+Los Reyes	354
+Magdalena	632
+Manzanillo	314
+Martínez de la Torre	232
+Mazatlán	669
+Mérida	999
+Mexicali	686
+Minatitlán	922
+Mochitlán	754
+Montemorelos	826
+Morelia	443
+Navojoa	642	
+Nogales	631
+Nuevo Laredo	867
+Ocotlán	392
+Ojinaga	626
+Orizaba	272
+Pachuca	771
+Parras de La fuente	842
+Pénjamo	469
+Petatlán	758
+Piedras Negras	878
+Puerto Peñasco	638
+Puerto Vallarta	322
+Puruandiro	438
+Río Verde	487
+Rosarito	661
+Sabinas	861
+Sahuayo	353
+Salvatierra	466
+San Cristóbal de las Casas	967
+San Fernando	841
+San José de Gracia	381
+San Juan del Rio	427
+San Miguel de Allende	415
+Santa Rosalía	891
+Santiago Tianguistenco	713
+Tala	384
+Tanhuato	356
+Taxco	762
+Tecuala	389
+Tehuacán	238
+Teloloapan	736
+Tenancingo	714
+Tequila	374
+Texcoco	595
+Teziutlan	231
+Tijuana	664
+Tlapa De Comonfort	757
+Tlaxcala	246
+Tula	773
+Tulancingo	775
+Tuxpan	783	
+Tuxtepec	287
+Manzanillo	314
+Tuxtla Gutiérrez	961
+Uruapan	452
+Valle De Bravo	726
+Villahermosa	993
+Zacapu	436
+Zacatecas	492
+Zamora	351
+Zihuatanejo	755
+Zitacuaro	715
+Zumpango	591
+Acapulco	744
+Allende	862
+Apatzingán	453
+Atlixco	244	
+Ciudad Altamirano	767
+Ciudad Cuauhtémoc	625
+Ciudad Obregón	644
+Coatzacoalcos	921
+Culiacán	667
+Fresnillo	493
+Guamuchil	673
+Guasave	687
+Guerrero Negro	615
+Huatabampo	647
+Izúcar de Matamoros	243
+Los Mochis	668
+Matehuala	488
+Monclova	866
+Nacozari	634
+Nuevo Casa Grandes	636
+Oaxaca	951
+Parral	627
+San Andrés Tuxtla	294
+San Luis Río Colorado	653
+Santiago Ixcuintla	323
+Tapachula	962
+Tecate	665
+Tecomán	313
+Tepatitlán de Monrelos	378
+Villaflores	965
+Zinapecuaro	451
